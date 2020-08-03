@@ -1,0 +1,8 @@
+2020-08-03 17:28:22.935  INFO 11204 --- [main] c.c.colinwng.ColinwngApplicationTests    : Starting ColinwngApplicationTests on DESKTOP-3OPQMAC with PID 11204 (started by Colin in D:\javaweb\colinwng)
+2020-08-03 17:28:22.946  INFO 11204 --- [main] c.c.colinwng.ColinwngApplicationTests    : No active profile set, falling back to default profiles: default
+2020-08-03 17:28:25.260  INFO 11204 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-03 17:28:25.788  INFO 11204 --- [main] c.c.colinwng.ColinwngApplicationTests    : Started ColinwngApplicationTests in 3.788 seconds (JVM running for 7.082)
+2020-08-03 17:28:26.448  INFO 11204 --- [main] c.c.colinwng.ColinwngApplicationTests    : info
+2020-08-03 17:28:26.449  WARN 11204 --- [main] c.c.colinwng.ColinwngApplicationTests    : 123456
+2020-08-03 17:28:26.449 ERROR 11204 --- [main] c.c.colinwng.ColinwngApplicationTests    : error
+2020-08-03 17:28:26.481  INFO 11204 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
